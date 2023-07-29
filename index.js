@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "hello lê hiếu đây, hãy nhớ kĩ rằng tui là lê hiếu 100% nhé" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "hello lê hiếu đây, đây là 5 tiếng ngồi sửa và fix để có món quà này đấy" //Lời mở đầu cho bức thư
 const mainContentLetter = "hmm 3/8 là snhat quỳnh chim rồi, cmsn quỳnh chim nhiều nhé, mặc dù mới chơi lại chắc được hơn 1 năm gi đấy thôi nhưng mà bạn giúp đỡ tôi rất nhiều trong thời gian vừa qua, chúc quỳnh chim tuổi mới vui vẻ hạnh phúc nhá, siêu siêu ngày càng học giỏi nhá, mà khcan chúc m học giỏi m cũng học giỏi sẵn mẹ rồi còn đâu nhưng mà cố gắng lên được 7.0 ielts nhóe, nhưng mà có gì đừng cục lên nhé, m cục lên t sợ đấy, lên lớp 11 nhớ nhiều thành công trong cuộc sống cũng như trong học tập nhé, t vào hod có gi giúp đỡ t và đặc biệt bỏ thói rep chậm di nhé kh t xiên đấy=)))), hmm chắc có lẽ m là đứa bạn mà t coi là bạn thân và tin tưởng nhất đấy, những lúc t khó khăn m đều nghe t than vãn là thấy m đỉnh như nào rồi, kh từ nào diễn tả=))) chúc mừng snhat nhiều nhé" //Nội dung của bức thư
 ." //Nội dung của bức thư
 
