@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "helo lhieuu đây=))) nhấn vào hộp quà ở dưới nhé, 6 tiếng ngồi fix với làm đủ kiểu mới ra được như này đấy=)))" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "helo lhieuu đây=))) nhấn vào hộp quà ở dưới nhé, 6 tiếng ngồi fix với làm đủ kiểu mới ra được như này đấy=))), mới học nên vẫn đ cho chữ hpbd vào được=)))" //Lời mở đầu cho bức thư
 const mainContentLetter = "hmm, hnay là 3/8 nha, snhat giang lợn, hpbd nhá, chúc tuổi mới gặt hái nhiều thành công, luôn vui vẻ trong cuộc sống học tiếng trung tốt, lên lớp 11 học tốt và được hsg nhé, kh biết nói gi hơn nữa=))) sau có gi di gội đầu hay di đâu đừng quên mang tiền là được, hay cầu cứu lhieu lắm=))) đừng có làm onl trên mạng xong bị lừa nữa nhé, hpbd nhieu=))))) "  "
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
